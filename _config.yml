@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 # SITE CONFIGURATION
 baseurl: "/main"
 url: "https://aminoanic.github.io"
